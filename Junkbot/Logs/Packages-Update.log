@@ -1,0 +1,9 @@
+
+=== Sun Sep 29 21:42:07 2019
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.postprocessing@2.1.7
+  com.unity.xr.legacyinputhelpers@2.0.2
